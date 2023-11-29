@@ -14,6 +14,3 @@ This article will teach you how to upload single and multiple files on a Golang 
 - Upload Multiple Files in Golang
 - Resize Multiple Files in Golang
 - Register the Routes
-
-Read the entire article here: [https://codevoweb.com/how-to-upload-single-and-multiple-files-in-golang/](https://codevoweb.com/how-to-upload-single-and-multiple-files-in-golang/)
-
